@@ -35,9 +35,7 @@ I'm a senior undergraduate student in the Department of Mechanical Engineering a
 
 -->
 <!--
-<!--
-**aditya-shirwatkar/aditya-shirwatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 <img align="left" src="https://github.com/prakrutk/prakrutk/blob/master/371905140_ROBOT_WAVING_400px.gif"> 
 
 ### Hi there 👋
@@ -47,10 +45,7 @@ I'm a junior undergraduate student in Mechanical Engineering at [Visvesvaraya Na
 - 🔭 I’m currently working on [**Trajectory Optimization (focused on Bipedal Systems)**](https://github.com/IvLabs/biped_trajectory_optimization) and implementing few **Optimal Control algorithms** on Underactuated Systems as well as researching on **Reconfigurable Robot** locomotion.
 - 🌱 I’m looking forward to researching various ways to integrate **Optimal Controls** with new advancements in **Reinforcement Learning** and applying them on **Reconfigurable systems**.
 - ⚡ Check out some of the projects of our growing community that I'm part of at - [**IvLabs**](https://www.ivlabs.in/) 
-<!-- - 📫 You can contact me on my email - avant.redditor@gmail.com -->
-<!-- - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... -->
+
 
 </br>
 
