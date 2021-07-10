@@ -34,6 +34,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/github.svg"></code>
 <code><img height="30" src="https://i0.wp.com/www10.mcadcafe.com/blogs/jeffrowe/files/2017/09/icons-solidworks.png"></code>
+<code><img height="30" src="https://www.bing.com/images/search?view=detailV2&ccid=ln0i6kAi&id=D5B8AA0F80CDAEF44EBC52208DB290AD55C87BD5&thid=OIP.ln0i6kAi3SzApcEAEV7F1AHaHa&mediaurl=https%3a%2f%2fwww.scan2cad.com%2fwp-content%2fuploads%2f2016%2f10%2fautocad-logo.png&exph=900&expw=900&q=autocad+logo&simid=608045576843050736&ck=BB6313BD4D9962CFA4AA6AF53CAF36F0&selectedIndex=7&FORM=IRPRST&ajaxhist=0&ajaxserp=0"></code>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsonni&theme=dark" />
