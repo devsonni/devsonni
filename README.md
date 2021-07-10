@@ -37,7 +37,7 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsonni&theme=dark" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=devsonnik&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=devsonni&theme=dark" />
 
 
 <!--
