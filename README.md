@@ -9,7 +9,7 @@
 - 📫 How to reach me: ... devsoni44.pp@gmail.com
 
 <!--
-<img align="left" src="https://github.com/aditya-shirwatkar/aditya-shirwatkar/blob/master/me.gif"> 
+<img align="left" height="100" width="100" src="https://github.com/aditya-shirwatkar/aditya-shirwatkar/blob/master/me.gif"> 
 
 ### Hi there 👋
 
