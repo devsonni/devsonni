@@ -7,9 +7,6 @@
 - 📫 How to reach me: ... devsoni44.pp@gmail.com
 
 <!--
-<!--
-**aditya-shirwatkar/aditya-shirwatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <img align="left" src="https://github.com/aditya-shirwatkar/aditya-shirwatkar/blob/master/me.gif"> 
 
 ### Hi there 👋
