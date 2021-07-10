@@ -34,8 +34,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/github.svg"></code>
 <code><img height="30" src="https://i0.wp.com/www10.mcadcafe.com/blogs/jeffrowe/files/2017/09/icons-solidworks.png"></code>
-<code><img height="30" src="https://github.com/devsonni/devsonni/blob/main/autocad-logo.png"></code>
-<code><img height="30" width="50" src="https://github.com/devsonni/devsonni/blob/main/Fusion360.png"></code>
+<code><img height="30" src="https://github.com/devsonni/devsonni/blob/main/extra/autocad-logo.png"></code>
+<code><img height="30" width="50" src="https://github.com/devsonni/devsonni/blob/main/extra/Fusion360.png"></code>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsonni&theme=dark" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=devsonni&theme=dark" />
