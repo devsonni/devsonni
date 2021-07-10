@@ -9,20 +9,25 @@
 - 👯 I’m looking to collaborate on anything related to controls of the robotic system. 
 - 💬 I would like to share my experience and love to hear about yours too.
 
+
+</br>
+
+### Connect with me:
+
+<a target="_blank" href="https://www.linkedin.com/in/dev-soni-880033184/">
+  <img align="left" alt="LinkdeIN" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=6353686534">
+  <img align="left" alt="Whatsapp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a target="_blank" href="mailto:devsoni44.pp@gmail.com">
+  <img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+</br>
+
 <!--
-<img align="left"  src="https://github.com/aditya-shirwatkar/aditya-shirwatkar/blob/master/me.gif"> 
 
-### Hi there 👋
-
-I'm a senior undergraduate student in the Department of Mechanical Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur](http://vnit.ac.in/), who is an aspiring robotics researcher and wishes to make the world a better place through the advancements in robotics and AI :innocent:
-
-<br>
-
-**More About Me**:
-
-- :rocket: My current research interests lie in developing robust control algorithms for dynamic and agile locomotions of robots in challenging environments.
-- 🔭 I’m currently working on developing a full stack reconfigurable robotic system along with controllers for robust navigation of quadrupeds.
-- 💬 I am happy to share my experiences in robotics and would like to hear about yours too
 - ⚡ Check out some of the projects of our growing community that I'm part of at [**IvLabs**](https://www.ivlabs.in/) 
 - 👯 I'm also involved with a team of legged robot enthusiasts at [**Stoch Lab**](https://stochlab.github.io/)  
 
