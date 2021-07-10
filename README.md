@@ -3,7 +3,7 @@
 
 * I'm a senior undergraduate student in the Department of Mechatronics Engineering at [ITM Vocational University (ITMVU), Vadodara](https://www.itm.ac.in/), who is a robotics aspirant and who wants to serve the world best in robotics and AI 🤩 
 
-**Some more about me**
+**Some More About Me**
 
 - 🚀 I’m currently working on the Dynamics and Control of robotic systems.
 - 👯 I’m looking to collaborate on anything related to controls of the robotic system. 
@@ -25,6 +25,20 @@
 </a>
 
 </br>
+
+### Languages and Tools:
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/github.svg"></code>
+<code><img height="30" src="https://i0.wp.com/www10.mcadcafe.com/blogs/jeffrowe/files/2017/09/icons-solidworks.png"></code>
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsonni&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=devsonnik&theme=dark" />
+
 
 <!--
 
