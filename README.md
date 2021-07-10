@@ -36,6 +36,8 @@
 <code><img height="30" src="https://i0.wp.com/www10.mcadcafe.com/blogs/jeffrowe/files/2017/09/icons-solidworks.png"></code>
 <code><img height="30" src="https://github.com/devsonni/devsonni/blob/main/extra/autocad-logo.png"></code>
 <code><img height="30" width="50" src="https://github.com/devsonni/devsonni/blob/main/extra/Fusion360.png"></code>
+<code><img height="30" src="https://github.com/devsonni/devsonni/blob/main/extra/ros.png"></code>
+<code><img height="30" src="https://github.com/devsonni/devsonni/blob/main/extra/casadilogo.png"></code>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsonni&theme=dark" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=devsonni&theme=dark" />
