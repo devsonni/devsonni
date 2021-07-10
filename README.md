@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="left" height="500" width="600" src="https://github.com/devsonni/devsonni/blob/main/me.gif">
+<img align="left" height="400" width="500" src="https://github.com/devsonni/devsonni/blob/main/me.gif">
 
 
 
