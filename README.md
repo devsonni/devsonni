@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" height="500" width="500" src="https://github.com/devsonni/devsonni/blob/main/me.gif">
+<img align="left" height="300" width="500" src="https://github.com/devsonni/devsonni/blob/main/me.gif">
 
 - 🔭 I’m currently working on ...dynamics and controls of robotics system
 - 🌱 I’m currently learning ...control system
