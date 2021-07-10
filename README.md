@@ -3,13 +3,11 @@
 
 * I'm a senior undergraduate student in the Department of Mechatronics Engineering at [ITM Vocational University (ITMVU), Vadodara](https://www.itm.ac.in/), who is a robotics aspirant and who wants to serve the world best in robotics and AI 🤩 
 
+** Some more about me **
 
-
-- 🔭 I’m currently working on ...dynamics and controls of robotics system
-- 🌱 I’m currently learning ...control system
-- 👯 I’m looking to collaborate on ... anything related to control of robots 
-- 💬 Ask me about ...anything
-- 📫 How to reach me: ... devsoni44.pp@gmail.com
+- 🚀 I’m currently working on Dynamics and Control of robotic systems.
+- 👯 I’m looking to collaborate on anything related to controls of robotic system. 
+- 💬 I would like to share my experience and love to hear about yours too.
 
 <!--
 <img align="left"  src="https://github.com/aditya-shirwatkar/aditya-shirwatkar/blob/master/me.gif"> 
