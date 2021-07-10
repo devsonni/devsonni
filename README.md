@@ -1,7 +1,7 @@
 ### Hi there 👋 <!--img height="40" width="40" src="https://github.com/devsonni/devsonni/blob/main/hii%20gif.gif"-->
 <img align="left" height="400" width="500" src="https://github.com/devsonni/devsonni/blob/main/me.gif">
 
-I'm a senior undergraduate student in the Department of Mechatronics Engineering at [ITM Vocational University (ITMVU), Vadodara](https://www.itm.ac.in/), who is a robotics aspirant and who wants to serve the world best in robotics and AI 🤩 
+*I'm a senior undergraduate student in the Department of Mechatronics Engineering at [ITM Vocational University (ITMVU), Vadodara](https://www.itm.ac.in/), who is a robotics aspirant and who wants to serve the world best in robotics and AI 🤩 
 
 
 
