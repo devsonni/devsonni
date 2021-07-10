@@ -5,8 +5,8 @@
 
 **Some more about me**
 
-- 🚀 I’m currently working on Dynamics and Control of robotic systems.
-- 👯 I’m looking to collaborate on anything related to controls of robotic system. 
+- 🚀 I’m currently working on the Dynamics and Control of robotic systems.
+- 👯 I’m looking to collaborate on anything related to controls of the robotic system. 
 - 💬 I would like to share my experience and love to hear about yours too.
 
 <!--
