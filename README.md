@@ -3,7 +3,7 @@
 
 * I'm a senior undergraduate student in the Department of Mechatronics Engineering at [ITM Vocational University (ITMVU), Vadodara](https://www.itm.ac.in/), who is a robotics aspirant and who wants to serve the world best in robotics and AI 🤩 
 
-** Some more about me **
+**Some more about me**
 
 - 🚀 I’m currently working on Dynamics and Control of robotic systems.
 - 👯 I’m looking to collaborate on anything related to controls of robotic system. 
