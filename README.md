@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" src="https://github.com/devsonni/devsonni/blob/main/me.gif">
+<img align="left" height="100" width="100" src="https://github.com/devsonni/devsonni/blob/main/me.gif">
 
 - 🔭 I’m currently working on ...dynamics and controls of robotics system
 - 🌱 I’m currently learning ...control system
@@ -9,7 +9,7 @@
 - 📫 How to reach me: ... devsoni44.pp@gmail.com
 
 <!--
-<img align="left" height="100" width="100" src="https://github.com/aditya-shirwatkar/aditya-shirwatkar/blob/master/me.gif"> 
+<img align="left"  src="https://github.com/aditya-shirwatkar/aditya-shirwatkar/blob/master/me.gif"> 
 
 ### Hi there 👋
 
