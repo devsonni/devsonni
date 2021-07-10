@@ -1,4 +1,4 @@
-### Hii there <img height="30" width="30" src="https://github.com/devsonni/devsonni/blob/main/hii%20gif.gif">
+### Hii there <img height="40" width="40" src="https://github.com/devsonni/devsonni/blob/main/hii%20gif.gif">
 <img align="left" height="400" width="500" src="https://github.com/devsonni/devsonni/blob/main/me.gif">
 
 
