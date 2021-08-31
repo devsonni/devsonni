@@ -40,5 +40,5 @@
 <code><img height="30" width="80" src="https://github.com/devsonni/devsonni/blob/main/extra/casadilogo.png"></code>       
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsonni&layout=compact&langs_count=8&theme=dark&hide=Common Lisp,Shell" />
-<img align="middle" src="https://github-readme-stats.vercel.app/api/?username=devsonni&theme=dark&show_icons=true&hide=prs,issues" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=devsonni&theme=dark&show_icons=true&hide=prs,issues" />
 
