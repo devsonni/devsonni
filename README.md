@@ -39,6 +39,6 @@
 <code><img height="30" width="70" src="https://github.com/devsonni/devsonni/blob/main/extra/ros.png"></code>
 <code><img height="30" width="80" src="https://github.com/devsonni/devsonni/blob/main/extra/casadilogo.png"></code>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsonni&layout=compact&langs_count=10&theme=dark" />
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsonni&layout=compact&langs_count=10&theme=dark" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/?username=devsonni&theme=dark" />
 
