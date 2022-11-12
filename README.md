@@ -1,4 +1,4 @@
-### Hi there 👋 <!--img height="40" width="40" src="https://github.com/devsonni/devsonni/blob/main/hii%20gif.gif"-->
+### Hi there 👋 <!--img height="20" width="20" src="https://github.com/devsonni/devsonni/blob/main/hii%20gif.gif"-->
 <img align="left" height="400" width="500" src="https://github.com/devsonni/devsonni/blob/main/me.gif">
 
 * I'm a graduate student from the Department of Mechatronics Engineering at [ITM Vocational University (ITMVU), Vadodara](https://www.itm.ac.in/), who wants to serve the best to world in robotics and AI 🤩 
