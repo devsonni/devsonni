@@ -1,4 +1,4 @@
-<img align="left" height="400" width="500" src="https://github.com/devsonni/devsonni/blob/main/me.gif">
+<img align="left" height="200" width="300" src="https://github.com/devsonni/devsonni/blob/main/me.gif">
 
 <!-- ### Connect with me:
 
