@@ -1,16 +1,4 @@
-### Hi there 👋 <!--img height="20" width="20" src="https://github.com/devsonni/devsonni/blob/main/hii%20gif.gif"-->
 <img align="left" height="400" width="500" src="https://github.com/devsonni/devsonni/blob/main/me.gif">
-
-* I'm a graduate student from the Department of Mechatronics Engineering at [ITM Vocational University (ITMVU), Vadodara](https://www.itm.ac.in/), who wants to serve the best to world in robotics and AI 🤩 
-
-**Some More About Me**
-
-- 🚀 I’m currently working on the AI and Vision.
-- 👯 I’m looking to collaborate on anything related to AI and robotic system. 
-- 💬 I would like to share my experience and love to hear about yours too.
-
-
-</br>
 
 <!-- ### Connect with me:
 
